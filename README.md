@@ -77,10 +77,3 @@ The application currently uses a hardcoded `SECRET_KEY` in the source code for d
 **For production environments:** Please generate a new key using `Fernet.generate_key()` and update the `SECRET_KEY` variable in both `server.py` and `client.py` to ensure security.
 
 ---
-
-## 📸 Screenshots
-*(You can upload screenshots to your repo and link them here later!)*
-
----
-
-**Created by [Your Name]** *Open Source Project for Portfolio Demonstration*
