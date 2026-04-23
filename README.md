@@ -1,6 +1,6 @@
-# 🏢 Office LAN Chat
+# 🏢 LAN Chat
 
-A secure, real-time desktop messaging application designed for internal office networks. Built with Python, this application features a centralized Server Admin Panel and multiple Client instances that communicate via encrypted sockets.
+A secure, real-time desktop messaging application designed for internal networks. Built with Python, this application features a centralized Server Admin Panel and multiple Client instances that communicate via encrypted sockets.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-green.svg)
